@@ -10,6 +10,8 @@
 
 - 📝 [Notes from ML Literature](https://github.com/marcosbenicio/data-science)
 
+- 🔬 [Undergraduate Project on Epidemiology Models](https://github.com/marcosbenicio/epidemiology)
+
 
 ### Blog 
 

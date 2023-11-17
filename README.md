@@ -1,4 +1,4 @@
-<h2 align="left">Welcome to my GitHub! Check some of my projects:</h2>
+<h1 align="left">Welcome to my GitHub! Check some of my projects:</h1>
 
 - 📊 [Diabetes Risk Factors (Classification)](https://github.com/marcosbenicio/diabetes-classification)
 

@@ -32,9 +32,9 @@
 
 <h2 align="left">Education:</h2>
 
-- M.Sc. in Physics at UFF
+- M.Sc. in Physics at Universidade Federal Fluminense(UFF)
 
-- Bachelor’s in Physics at UFF 
+- Bachelor’s in Physics at Universidade Federal Fluminense(UFF) 
 
 <h2 align="left">Technical Skills:</h2>
 

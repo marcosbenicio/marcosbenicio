@@ -12,7 +12,6 @@
 
 
 ### Blog 
-I intend to start a blog and post all my notes on the mathematical foundations of algorithms from Machine Learning and Deep Learning models:
 
 - 💡 [ Blog In Construction](https://marcosbenicio.github.io/)
 

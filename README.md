@@ -18,7 +18,6 @@
 - 💡 [ Blog ](https://marcosbenicio.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
-- [Last Update](https://marcosbenicio.github.io/2023/11/22/probability.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 

@@ -13,11 +13,12 @@
 - 🔬 [Undergraduate Project on Epidemiology Models](https://github.com/marcosbenicio/epidemiology)
 
 
-### Blog 
+# Blog 
 
 - 💡 [ Blog ](https://marcosbenicio.github.io/)
 
 
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

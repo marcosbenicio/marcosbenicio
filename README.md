@@ -41,7 +41,7 @@
 
 <h2 align="left">Technical Skills:</h2>
 
-<p>I have solid knowledge in the following programming languages and technologies:</p>
+<p>I have knowledge in the following programming languages and technologies:</p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">

@@ -1,3 +1,8 @@
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <h1 align="left">Welcome to my GitHub! Check some of my projects:</h1>
 
 - 📊 [Diabetes Risk Factors (Classification)](https://github.com/marcosbenicio/diabetes-classification)
@@ -12,6 +17,8 @@
 
 - 🔬 [Undergraduate Project on Epidemiology Models](https://github.com/marcosbenicio/epidemiology)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # Blog 
 
@@ -22,14 +29,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-<!-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/marcos-ben%C3%ADcio-de-andrade-alonso-415a5b16b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-ben%c3%adcio-de-andrade-alonso-415a5b16b/" height="30" width="40" /></a>
-</p>
--->
 
 <h1 align="left">Interested in my work? Feel free to contact me:</h1>
 

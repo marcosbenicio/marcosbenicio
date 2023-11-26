@@ -44,7 +44,7 @@
 <table>
   <tr>
     <!-- Languages -->
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <h3 align="left">Languages:</h3>
       <p align="left">
         <a target="_blank" rel="noreferrer"> 
@@ -62,7 +62,7 @@
       </p>
     </td>
     <!-- Python Libraries -->
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <h3 align="left">Python Libraries:</h3>
       <p align="left">
         <a target="_blank" rel="noreferrer"> 
@@ -89,7 +89,7 @@
       </p>
     </td>
     <!-- Tools -->
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <h3 align="left">Tools:</h3>
       <p align="left">
         <a target="_blank" rel="noreferrer"> 
@@ -108,5 +108,9 @@
           <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
         </a>
       </p>
+    </td>
+  </tr>
+</table>
+
    
 

@@ -1,8 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
 <h1 align="left">Welcome to my GitHub! Check some of my projects:</h1>
 
 - 📊 [Diabetes Risk Factors (Classification)](https://github.com/marcosbenicio/diabetes-classification)
@@ -28,6 +23,7 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Probabilities and Bayes Rule](https://marcosbenicio.github.io/2023/11/22/probability.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h1 align="left">Interested in my work? Feel free to contact me:</h1>

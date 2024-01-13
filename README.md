@@ -1,6 +1,6 @@
 <h1 align="left">Welcome to my GitHub! Check some of my projects:</h1>
 
-- 🚕 [Taxi Trip Duration in NYC (Regression)](https://github.com/marcosbenicio/taxi-trip-regression) (In Progress)
+- 🚕 [Taxi Trip Duration in NYC (Regression)](https://github.com/marcosbenicio/taxi-trip-regression/blob/main/notebooks/taxi-trip-duration-raw.ipynb) (In Progress)
 
 - 📊 [Diabetes Risk Factors (Classification)](https://github.com/marcosbenicio/diabetes-classification)
 

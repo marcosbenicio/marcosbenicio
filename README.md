@@ -10,8 +10,6 @@
 
 - 📝 [Notes on Mathematical Foundation of ML Models](https://github.com/marcosbenicio/ML-zoomcamp)
 
-- 📝 [Notes from ML Literature](https://github.com/marcosbenicio/data-science)
-
 - 🔬 [Undergraduate Project on Epidemiology Models](https://github.com/marcosbenicio/epidemiology)
 
 <!-- BLOG-POST-LIST:START -->

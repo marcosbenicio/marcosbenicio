@@ -1,5 +1,7 @@
 <h1 align="left">Welcome to my GitHub! Check some of my projects:</h1>
 
+- 🚕 [Taxi Trip Duration in NYC (Regression)](https://github.com/marcosbenicio/taxi-trip-regression) (In Progress)
+
 - 📊 [Diabetes Risk Factors (Classification)](https://github.com/marcosbenicio/diabetes-classification)
 
 - ⚛️ [Physics-Informed Neural Networks](https://github.com/marcosbenicio/pinns)

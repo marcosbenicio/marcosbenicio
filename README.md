@@ -6,14 +6,16 @@
 
 - ⚛️ [Physics-Informed Neural Networks](https://github.com/marcosbenicio/pinns)
 
-- 🖼️ [Convolutional Neural Network](https://github.com/marcosbenicio/convolutional-neural-network) 
-
-- 📝 [Notes on Mathematical Foundation of ML Models](https://github.com/marcosbenicio/ML-zoomcamp)
+- 🖼️ [Convolutional Neural Network](https://github.com/marcosbenicio/convolutional-neural-network)
 
 - 🔬 [Undergraduate Project on Epidemiology Models](https://github.com/marcosbenicio/epidemiology)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h1 align="left">Course notes:</h1>
+
+- 📝 [Notes on Machine Learning Zoomcamp Course](https://github.com/marcosbenicio/ML-zoomcamp)
+   
+- 📝 [Notes on Data Engineering Zoomcamp Course](https://github.com/marcosbenicio/DE-zoomcamp) (In Progress...)
+
 
 # Blog 
 
@@ -22,10 +24,9 @@
 
 ## Blog posts
 
-<!-- BLOG-POST-LIST:START -->
+
 - [Probabilities and Bayes Rule](https://marcosbenicio.github.io/2023/11/22/probability.html)
 - [Understanding Convolutional Layers in a Convolutional Neural Network](https://marcosbenicio.github.io/2023/11/27/cnn.html)
-<!-- BLOG-POST-LIST:END -->
 
 <h1 align="left">Interested in my work? Feel free to contact me:</h1>
 

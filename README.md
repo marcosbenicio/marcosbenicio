@@ -83,9 +83,6 @@
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
         </a>
         <a target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-        </a>
-        <a target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
         </a>
       </p>

@@ -21,13 +21,6 @@
 
 - 💡 [ Blog ](https://marcosbenicio.github.io/)
 
-
-## Blog posts
-
-
-- [Probabilities and Bayes Rule](https://marcosbenicio.github.io/2023/11/22/probability.html)
-- [Understanding Convolutional Layers in a Convolutional Neural Network](https://marcosbenicio.github.io/2023/11/27/cnn.html)
-
 <h1 align="left">Interested in my work? Feel free to contact me:</h1>
 
 - 📫 Email: **marcosbenicio@id.uff.br**

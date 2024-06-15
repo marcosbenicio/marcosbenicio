@@ -17,7 +17,7 @@
 - 📝 [Notes on Data Engineering Zoomcamp Course](https://github.com/marcosbenicio/DE-zoomcamp) (In Progress...)
 
 
-# Blog 
+# Blog/Portfolio 
 
 - 💡 [ Blog ](https://marcosbenicio.github.io/)
 

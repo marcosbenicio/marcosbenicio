@@ -14,17 +14,12 @@
 
 - 📝 [Notes on Machine Learning Zoomcamp Course](https://github.com/marcosbenicio/ML-zoomcamp)
    
-- 📝 [Notes on Data Engineering Zoomcamp Course](https://github.com/marcosbenicio/DE-zoomcamp) (In Progress...)
+- 📝 [Notes on Data Engineering Zoomcamp Course](https://github.com/marcosbenicio/DE-zoomcamp)
 
 
 # Blog/Portfolio 
 
 - 💡 [ Blog ](https://marcosbenicio.github.io/)
-
-<h1 align="left">Interested in my work? Feel free to contact me:</h1>
-
-- 📫 Email: **marcosbenicio@id.uff.br**
-
 
 <h2 align="left">Education:</h2>
 

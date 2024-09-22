@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to my GitHub! Check some of my projects:</h1>
+<h1 align="left">Some of My Personal Projects:</h1>
 
 - 🚕 [Taxi Trip Duration in NYC (Regression)](https://github.com/marcosbenicio/taxi-trip-regression/blob/main/notebooks/taxi-trip-duration-raw.ipynb)
 

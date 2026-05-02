@@ -27,7 +27,6 @@
 
 - Bachelor’s in Physics at Universidade Federal Fluminense(UFF) 
 
-<h2 align="left">Technical Skills:</h2>
 
    
 
